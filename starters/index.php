@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="#">Logout</a>
+    <?php echo 'Hello world'; ?>
+    <br><a href="#">Logout</a>
 
 </body>
 </html>
